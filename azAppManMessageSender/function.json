@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "telegram",
+      "connection": "appointmentcrawlergac19_STORAGE"
+    }
+  ],
+  "scriptFile": "../dist/azAppManMessageSender/index.js"
+}
