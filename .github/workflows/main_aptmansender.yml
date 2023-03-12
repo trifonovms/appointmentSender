@@ -41,4 +41,4 @@ jobs:
           app-name: 'aptmansender'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FDE1C58C80044EEB5438555A166C8D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE1DBFD9B7ED461C9FBBE66333C630CF }}
