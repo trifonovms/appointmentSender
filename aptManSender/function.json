@@ -8,5 +8,5 @@
       "connection": "appointmentcrawlergac19_STORAGE"
     }
   ],
-  "scriptFile": "../dist/azAppManMessageSender/index.js"
+  "scriptFile": "../dist/aptManSender/index.js"
 }
