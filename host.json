@@ -23,7 +23,9 @@
   },
   "extensions": {
     "queues": {
-      "messageEncoding": "base64"
+      "messageEncoding": "base64",
+      "maxPollingInterval":"00:00:02"
+
     }
   }
 }
